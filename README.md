@@ -4,11 +4,11 @@ This repository contains implementations and empirical analysis for Randomized Q
 ```
 .
 ├── quicksort_algorithm.py                                       # Implementation of Randomized and Deterministic Quicksort
-├── quicksort_runner.py                                           # Script to run empirical tests for Quicksort
-├── hash_table_algorithm.py                                                 # Implementation of Hash Table with Chaining
-├── hashtable_runner.py                                                # Script to run empirical tests for Hash Table
-└── Understanding Algorithm Efficiency and Scalability.pdf        # Report on Assignment
-└── README.md                                                     # Instructions and summary
+├── quicksort_runner.py                                          # Script to run empirical tests for Quicksort
+├── hash_table_algorithm.py                                      # Implementation of Hash Table with Chaining
+├── hashtable_runner.py                                          # Script to run empirical tests for Hash Table
+└── Understanding Algorithm Efficiency and Scalability.pdf       # Report on Assignment
+└── README.md                                                    # Instructions and summary
 
 ```
 
